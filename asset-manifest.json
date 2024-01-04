@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Movies_DB_App/static/css/main.82bec76c.css",
+    "main.js": "/Movies_DB_App/static/js/main.3a1ca74d.js",
+    "static/js/787.9805c458.chunk.js": "/Movies_DB_App/static/js/787.9805c458.chunk.js",
+    "static/media/Thor.jpg": "/Movies_DB_App/static/media/Thor.ac875bef6158b237a6d0.jpg",
+    "static/media/DC.jpg": "/Movies_DB_App/static/media/DC.d430d13c6c78ae817063.jpg",
+    "static/media/Avatar_img.webp": "/Movies_DB_App/static/media/Avatar_img.c320c460063955ed5afe.webp",
+    "index.html": "/Movies_DB_App/index.html",
+    "main.82bec76c.css.map": "/Movies_DB_App/static/css/main.82bec76c.css.map",
+    "main.3a1ca74d.js.map": "/Movies_DB_App/static/js/main.3a1ca74d.js.map",
+    "787.9805c458.chunk.js.map": "/Movies_DB_App/static/js/787.9805c458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bec76c.css",
+    "static/js/main.3a1ca74d.js"
+  ]
+}
