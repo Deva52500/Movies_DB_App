@@ -1,5 +1,5 @@
 
-#This project has been successfully deployed, please take a look at the link below.
+# This project has been successfully deployed, please take a look at the link below.
 Link: https://Deva52500.github.io/Movies_DB_App
 
 # Getting Started with Create React App
